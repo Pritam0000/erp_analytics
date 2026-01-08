@@ -1,0 +1,28 @@
+# requirements.txt
+
+# Flask and Extensions
+Flask==2.3.3
+Flask-CORS==4.0.0
+gunicorn==21.2.0
+Werkzeug==2.3.7
+
+# Database
+cx-Oracle==8.3.0
+python-dotenv==1.0.0
+
+# Data Analysis
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+statsmodels==0.14.0
+
+# ML Model Management
+joblib==1.3.1
+
+# Utilities
+pytz==2023.3
+python-dateutil==2.8.2
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
